@@ -7,11 +7,11 @@ export default function App() {
         <h1>Apple</h1>
       </div>
       <div className="navbar">
-        <a href="">Macbook</a>
-        <a href="">Ipad</a>
-        <a href="">Iphone</a>
-        <a href="">Airpods</a>
-        <a href="">Accessories</a>
+        <a href="#">Macbook</a>
+        <a href="#">Ipad</a>
+        <a href="#">Iphone</a>
+        <a href="#">Airpods</a>
+        <a href="#">Accessories</a>
       </div>
       <div className="main">
         <div className="row">
